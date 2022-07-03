@@ -1,7 +1,12 @@
 body {
   text-align: center;
-  background-color: #999999;
+  background-image: url('https://parispeaceforum.org/wp-content/uploads/2021/10/NET-ZERO-SPACE-INITIATIVE-1.png');
+  color: aliceblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 h1 {
